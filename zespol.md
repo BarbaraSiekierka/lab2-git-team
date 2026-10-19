@@ -1,4 +1,4 @@
-# Zespół
+# LazyNagłówek
 
 Nazwa zespołu: Brązowe myśli 
 
