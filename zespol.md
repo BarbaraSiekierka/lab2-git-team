@@ -6,8 +6,6 @@ Nazwa zespołu: Brązowe myśli
 Barbara
 
 ## Motto
-
-Informatyka jest fajna
-
+dzień bez ali to dzień stracony 
 # Ulubione technologie
 -brak
