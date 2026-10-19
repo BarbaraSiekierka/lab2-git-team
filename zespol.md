@@ -1,4 +1,4 @@
-# Zespół
+# INFO o zespole
 
 Nazwa zespołu: Brązowe myśli 
 
