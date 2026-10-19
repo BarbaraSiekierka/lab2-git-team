@@ -1,6 +1,6 @@
 # Zespół
 
-Nazwa zespołu: ???
+Nazwa zespołu: Brązowe myśli 
 
 ## Skład
 Barbara
