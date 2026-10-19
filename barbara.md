@@ -4,4 +4,4 @@ Specjalizacja - inżynieria oprogramowania
 Semestr 5
 
 ##Hobby
-Lubie League of Legends
+Lubię League of Legends
