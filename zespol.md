@@ -10,3 +10,4 @@ Barbara
 ???
 
 # Ulubione technologie
+-brak
