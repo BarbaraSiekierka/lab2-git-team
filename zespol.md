@@ -7,5 +7,6 @@ Barbara
 
 ## Motto
 dzień bez ali to dzień stracony 
+
 # Ulubione technologie
 -brak
