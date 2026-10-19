@@ -1,0 +1,4 @@
+#imie
+istniej
+egzystuje
+monster
