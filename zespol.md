@@ -3,6 +3,7 @@
 Nazwa zespołu: ???
 
 ## Skład
+Barbara
 
 ## Motto
 
