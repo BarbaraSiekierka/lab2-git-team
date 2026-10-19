@@ -7,7 +7,7 @@ Barbara
 
 ## Motto
 
-???
+Informatyka jest fajna
 
 # Ulubione technologie
 -brak
