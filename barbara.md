@@ -5,3 +5,7 @@ Semestr 5
 
 ##Hobby
 Lubię League of Legends
+
+
+# Uwaga od Barbara
+silver
