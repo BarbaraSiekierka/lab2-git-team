@@ -1,0 +1,4 @@
+# CELE
+
+Zdać
+przeżyć
