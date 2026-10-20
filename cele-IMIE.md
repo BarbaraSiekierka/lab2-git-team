@@ -1,3 +1,4 @@
 # CELE
 
 Zdać
+przeżyć
